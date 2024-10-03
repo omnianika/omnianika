@@ -1,8 +1,10 @@
 <p align="center">
 ## Hi there 👋
-
+</p>
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omnianika&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
+
 <!--
 **omnianika/omnianika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
