@@ -1,5 +1,5 @@
 <p align="center">
-## Hi there 👋
+Hi there 👋
 </p>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omnianika&theme=tokyonight-duo" alt="GitHub Streak" /></a>
