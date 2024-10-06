@@ -1,4 +1,4 @@
-name: Automated Commit
+name: Timestamp update
 
 on:
   push:
