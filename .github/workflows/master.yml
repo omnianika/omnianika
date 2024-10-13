@@ -1,11 +1,11 @@
-name: Automated Commit
+name: ac
 
 on:
   push:
     branches: [master]
 
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '* */4 * * *'
 
   workflow_dispatch: 
 
